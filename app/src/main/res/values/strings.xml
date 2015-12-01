@@ -1,0 +1,8 @@
+<resources>
+    <string name="title_activity_list_box">ListBox</string>
+    <string name="pesAcess">Pesquisar Acessórios</string>
+    <string name="title_main">Guia Shopping</string>
+    <string name="search">Pesquisar..</string>
+    <string name="title_promocao">Promoções</string>
+
+</resources>
